@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Zwuiix-cmd/KnockbackCustom
+build-by-default: true
+branches:
+- main
+projects:
+  KnockbackCustom:
+    path: ""
+...
